@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Fathimath Raniya P K</h1>
-<h3 align="center">👋 I'm a first-year B-Tech Computer Science & Engineering student 🚀, exploring the exciting world of tech! Right now, I'm diving into the realms of AI/ML 🤖, but I love experimenting with different domains and learning new things every day. 💻 I'm always working on fun projects and improving my skills, connecting with like-minded people who share the same passion. 🙌 I’m a people person who loves crowds and has no fear of public speaking 🎤. Always ready to update and learn, no matter the time or place! 😎 Let’s connect and build something amazing! 🌟</h>
+<h3 align="center">👋 I'm a second-year B-Tech Computer Science & Engineering student 🚀, exploring the exciting world of tech! Right now, I'm diving into the realms of AI/ML 🤖, but I love experimenting with different domains and learning new things every day. 💻 I'm always working on fun projects and improving my skills, connecting with like-minded people who share the same passion. 🙌 I’m a people person who loves crowds and has no fear of public speaking 🎤. Always ready to update and learn, no matter the time or place! 😎 Let’s connect and build something amazing! 🌟</h>
 <img src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif" alt="description of image">
 
 
